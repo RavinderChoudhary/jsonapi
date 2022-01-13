@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Eshaan",
+    "date": "Jan 11,2022",
+    "rating_score": 3,
+    "content": "Very helpful, very accommodating Thank you so much1"
+  },
+  {
+    "name": "Ravi",
+    "date": "Jan 12,2022",
+    "rating_score": 4,
+    "content": "Very helpful, very accommodating Thank you so much2"
+  },
+  {
+    "name": "John",
+    "date": "Jan 13,2022",
+    "rating_score": 1,
+    "content": "Very helpful, very accommodating Thank you so much3"
+  },
+  {
+    "name": "Harry",
+    "date": "Jan 14,2022",
+    "rating_score": 5,
+    "content": "Very helpful, very accommodating Thank you so much4"
+  },
+  {
+    "name": "Sunny",
+    "date": "Jan 15,2022",
+    "rating_score": 2,
+    "content": "Very helpful, very accommodating Thank you so much5"
+  }
+]
