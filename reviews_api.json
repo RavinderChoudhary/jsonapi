@@ -1,32 +1,110 @@
 [
   {
+    "name": "Alvaro A.",
+    "date": "Jan 12,2022",
+    "rating_score": 5,
+    "content": "Great service!"
+  },
+  {
+    "name": "Jose",
+    "date": "Jan 12,2022",
+    "rating_score": 5,
+    "content": "I've had a great experience with Pocketpills. Staff has been very nice and orders are on time. Also the app is super easy to navigate. I look forward to keep using on using Pocketpills for my prescriptions."
+  },
+  {
+    "name": "Donald I.",
+    "date": "Jan 12,2022",
+    "rating_score": 3,
+    "content": "Staff and submission was very good. However, Johnson’s had bragged about your pricing, however, it was not much better than my local pharmacy. I see that FIVE FREESTYLE FLAS SENSORS came to $104.99 (70 days). Can you check with my drug plan to see if I can submit 7 Sensors at a time and what would the unit cost be that you could get 7 for me? Thank you,"
+  },
+  {
     "name": "Eshaan",
     "date": "Jan 11,2022",
-    "rating_score": 3,
-    "content": "Very helpful, very accommodating Thank you so much1"
-  },
-  {
-    "name": "Ravi",
-    "date": "Jan 12,2022",
-    "rating_score": 4,
-    "content": "Very helpful, very accommodating Thank you so much2"
-  },
-  {
-    "name": "John",
-    "date": "Jan 13,2022",
-    "rating_score": 1,
-    "content": "Very helpful, very accommodating Thank you so much3"
-  },
-  {
-    "name": "Harry",
-    "date": "Jan 14,2022",
     "rating_score": 5,
-    "content": "Very helpful, very accommodating Thank you so much4"
+    "content": "Very helpful, very accommodating. Thank you so much"
   },
   {
-    "name": "Sunny",
-    "date": "Jan 15,2022",
-    "rating_score": 2,
-    "content": "Very helpful, very accommodating Thank you so much5"
+    "name": "Cynthia H.",
+    "date": "Jan 10,2022",
+    "rating_score": 5,
+    "content": "Everyone i have dealt with has been very knowledgeable and helpful. Great first experience as i have just joined pocketpills."
+  },
+  {
+    "name": "Tammy W.",
+    "date": "Jan 9,2022",
+    "rating_score": 4,
+    "content": "I wish you guys did nit raise your dispensing fee from 7 to 11.That is a lot. This is the same as Metro, not very much difference in savings. Who ever was texting me was very polite and nice.Could you do better on the dispensing fee??"
+  },
+  {
+    "name": "Cherie",
+    "date": "Jan 8,2022",
+    "rating_score": 5,
+    "content": "Such a convenient and pleasant service. I can appreciate its simplicity. The delivery was a lot quicker than expected."
+  },
+  {
+    "name": "Deborah",
+    "date": "Jan 6,2022",
+    "rating_score": 4,
+    "content": "I truly appreciated the expedited experience however my question is what happens if I'm not home? Could someone just raid my package laying on my front porch?"
+  },
+  {
+    "name": "Maegan B.",
+    "date": "Jan 5,2022",
+    "rating_score": 5,
+    "content": "It was so easy to use and the doctor I spoke to was incredibly helpful!!"
+  },
+  {
+    "name": "Craig D.",
+    "date": "Jan 3,2022",
+    "rating_score": 5,
+    "content": "Impressed with the quick, professional service!"
+  },
+  {
+    "name": "Natalia",
+    "date": "Jan 3,2022",
+    "rating_score": 5,
+    "content": "My delivery did not make it and this place went above and beyond to ensure that another deceivers came even after hours. It was thoughtful and caring and I felt well taken care of. Thank you, team. This place is wonderful!"
+  },
+  {
+    "name": "Jan G.",
+    "date": "Jan 3,2022",
+    "rating_score": 5,
+    "content": "Very friendly and accommodating this is literally the 2nd company that i ever reviewed. they deserve the praise!"
+  },
+  {
+    "name": "Nicole",
+    "date": "Jan 3,2022",
+    "rating_score": 5,
+    "content": "Fast, efficient and delivered smoothly!"
+  },
+  {
+    "name": "Jenny E.",
+    "date": "Jan 2,2022",
+    "rating_score": 5,
+    "content": "Was very helpful and easy to use. App was a little confusing to begin with but as soon as an appointment was scheduled with a doctor it was very easy afterwards"
+  },
+  {
+    "name": "Nancy P.",
+    "date": "Dec 31,2021",
+    "rating_score": 5,
+    "content": "Excellent service. Friendly and fast ."
+  },
+  {
+    "name": "Kristopher K.",
+    "date": "Dec 30,2021",
+    "rating_score": 5,
+    "content": "Super user friendly experience. This is a modern solution that makes getting prescriptions very simple."
+  },
+  {
+    "name": "Robyn",
+    "date": "Dec 27,2021",
+    "rating_score": 3,
+    "content": "Ordering was so easy! Loved how fast it came. But the address was entered incorrectly twice and was delivered to the wrong house down my street . (Fed ex not you guys)"
+  },
+  {
+    "name": "Andre",
+    "date": "Dec 27,2021",
+    "rating_score": 5,
+    "content": "Great experience ….. very fast …. Very knowledgeable."
   }
 ]
